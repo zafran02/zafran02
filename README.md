@@ -1,4 +1,4 @@
-# Hello, I'm ZAC FAISAL
+# Hello, I'm AHMAD ZAFRAN
 <a href="https://linkedin.com/in/zafran02/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I've been diving into cybersecurity since January 2024, constantly learning and sharpening my skills. Passionate about security research, ethical hacking, and solving CTF challenges. Always eager to explore new concepts and improve my expertise in this ever-evolving field.
@@ -14,8 +14,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
 
 ## Tools
 ### Network
