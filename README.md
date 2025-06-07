@@ -14,6 +14,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Reverse Engineering                           | <a href="https://docs.google.com/document/d/1W5_33vylbeODcrIvQhH5kqTqt59Ae18GOAii5VTlY1g/edit?usp=sharing">OSU SecLab>/a>|
 
 ## Tools
 ### Network
