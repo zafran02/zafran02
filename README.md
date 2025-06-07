@@ -13,8 +13,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Skills
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Reverse Engineering                           | <a href="https://docs.google.com/document/d/1W5_33vylbeODcrIvQhH5kqTqt59Ae18GOAii5VTlY1g/edit?usp=sharing">OSU SecLab>/a>|
+| Reverse Engineering                           | <a href="https://docs.google.com/document/d/1W5_33vylbeODcrIvQhH5kqTqt59Ae18GOAii5VTlY1g/edit?usp=sharing">OSU SecLab CTF2></a>|
+| Shellcode                                     | <a href="https://docs.google.com/document/d/1dtI9JyZYQ-mJsOO_XUgpNR5sx7m3guqAscR4y0f3Q18/edit?usp=sharing">OSU SecLab CTF3></a>|
+| Stack Overflow                                | <a href="https://docs.google.com/document/d/1LJ6jHC4texTRaMn5Wepshv2k81zmM_aTX1Eet9tYUlg/edit?usp=sharing">OSU SecLab CTF4></a>|
+| Format String Vulnerability                   | <a href="https://docs.google.com/document/d/135UDbQdMVqDBg8peqEsiatFjiwCqttAPq_zVFiVYJvk/edit?usp=sharing">OSU SecLab CTF5></a>|
+| Heap Overflow                                 | <a href="https://docs.google.com/document/d/1jxuCaIcTOXtr14rFuIuD7TEPUSWDin4tbOSHmgR_ZJw/edit?usp=sharing">OSU SecLab CTF6></a>|
 
 ## Tools
 ### Network
